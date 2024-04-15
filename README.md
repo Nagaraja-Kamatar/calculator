@@ -12,9 +12,3 @@ This simple calculator project is designed to perform basic arithmetic operation
 - Simple and user-friendly interface
 - Basic functionality for quick calculations
 
-## How to Use
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Nagaraja-Kamatar/calculator.git
