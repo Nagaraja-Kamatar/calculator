@@ -12,4 +12,3 @@ This simple calculator project is designed to perform basic arithmetic operation
 - Simple and user-friendly interface
 - Basic functionality for quick calculations
 
-![Uploading Screenshot 2024-04-20 at 4.04.14 PM.png…]()
